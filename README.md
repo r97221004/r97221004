@@ -1,4 +1,4 @@
-## Hi there 👋
+hi, stranger.
 
 <!--
 **r97221004/r97221004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
