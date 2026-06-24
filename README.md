@@ -1,4 +1,16 @@
+<div align="center">
+
+<br><br><br>
+
 hi, stranger.
+
+<img src="black.gif" width="180">
+
+<br>
+
+<br><br>
+
+</div>
 
 <!--
 **r97221004/r97221004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
