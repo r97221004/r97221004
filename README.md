@@ -1,16 +1,17 @@
 <div align="center">
 
-<br><br><br>
+<br><br>
 
 hi, stranger.
 
-<img src="black.gif" width="180">
+
+<img src="black.gif" width="240" alt="rotating cube"/>
 
 <br>
 
 Matt | 麥特 | 麦特 | マット
 
-<br><br>
+<br><br><br>
 
 </div>
 
