@@ -5,7 +5,7 @@
 hi, stranger.
 
 
-<img src="black.gif" width="280" alt="rotating cube"/>
+<img src="black.gif" width="360" alt="rotating cube"/>
 
 <br>
 
