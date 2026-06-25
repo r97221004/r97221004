@@ -5,11 +5,11 @@
 hi, stranger.
 
 
-<img src="black.gif" width="240" alt="rotating cube"/>
+<img src="black.gif" width="280" alt="rotating cube"/>
 
 <br>
 
-Matt | [麥特](www.linkedin.com/in/matt2chang) | 麦特 | マット
+麥特 &nbsp;|&nbsp;&nbsp;麦特  &nbsp;|&nbsp;&nbsp; <a href="https://www.linkedin.com/in/matt2chang/" target="_blank" style="color:#4EA1FF">Matt</a>  &nbsp;|&nbsp;&nbsp; マット
 
 <br><br><br>
 
