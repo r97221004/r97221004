@@ -9,7 +9,7 @@ hi, stranger.
 
 <br>
 
-Matt | [麥特](https://www.linkedin.com/in/你的linkedin-id/) | 麦特 | マット
+Matt | [麥特](www.linkedin.com/in/matt2chang) | 麦特 | マット
 
 <br><br><br>
 
