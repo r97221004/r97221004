@@ -1,17 +1,16 @@
 <div align="center">
 
-<br><br>
-
-hi, stranger.
-
-
-<img src="black.gif" width="360" alt="rotating cube"/>
+<a href="https://www.linkedin.com/in/matt2chang/">
+  <img src="style3_top_tight.svg" width="1080" alt="Matt - Backend Engineer">
+</a>
 
 <br>
 
-麥特 &nbsp;|&nbsp;&nbsp;麦特  &nbsp;|&nbsp;&nbsp; <a href="https://www.linkedin.com/in/matt2chang/" target="_blank" style="color:#4EA1FF">Matt</a>  &nbsp;|&nbsp;&nbsp; マット
+<img src="black.gif" width="400" alt="Rotating Cube">
 
-<br><br><br>
+<br>
+
+<img src="style3_footer_tight.svg" width="550" alt="麥特 • 麦特 • マット">
 
 </div>
 
