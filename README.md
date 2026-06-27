@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matt2chang/">
-  <img src="style3_top_tight.svg" width="1080" alt="Matt - Backend Engineer">
+  <img src="style3_top_tight.svg" width="1280" alt="Matt - Backend Engineer">
 </a>
 
 <br>
 
-<img src="black.gif" width="400" alt="Rotating Cube">
+<img src="black.gif" width="300" alt="Rotating Cube">
 
 <br>
 
