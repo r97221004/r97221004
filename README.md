@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="style3_footer_tight.svg" width="380" alt="麥特 • 麦特 • マット">
+<img src="style3_footer_tight.svg" width="540" alt="麥特 • 麦特 • マット">
 
 </div>
 
