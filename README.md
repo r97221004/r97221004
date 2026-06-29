@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matt2chang/">
-  <img src="style3_top_tight.svg" width="1280" alt="Matt - Backend Engineer">
+  <img src="style3_top_tight.svg" width="660" alt="Matt - Backend Engineer">
 </a>
 
 <br>
@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="style3_footer_tight.svg" width="550" alt="麥特 • 麦特 • マット">
+<img src="style3_footer_tight.svg" width="330" alt="麥特 • 麦特 • マット">
 
 </div>
 
