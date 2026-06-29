@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="black.gif" width="300" alt="Rotating Cube">
+<img src="black.gif" width="350" alt="Rotating Cube">
 
 <br>
 
